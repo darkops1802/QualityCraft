@@ -1,0 +1,39 @@
+{
+	"format_version": "1.20.30",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "qob:bell_recipe"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:gold_ingot"
+			}
+		],
+		"pattern": [
+			"ABA",
+			"ACA",
+			"ASA"
+		],
+		"key": {
+			"A": {
+				"item": "stone"
+			},
+			"B": {
+				"item": "stick"
+			},
+			"S": {
+				"item": "gold_nugget"
+			},
+			"C": {
+				"item": "gold_ingot"
+			}
+		},
+		"result": {
+			"item": "minecraft:bell",
+			"count": 1
+		},
+		"tags": [
+			"crafting_table"
+		]
+	}
+}

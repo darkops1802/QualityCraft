@@ -1,0 +1,19 @@
+{
+	"format_version": "1.21.30",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "qob:gold_block_from_raw_gold_block"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:raw_gold_block"
+			}
+		],
+		"input": "minecraft:raw_gold_block",
+		"output": "minecraft:gold_block",
+		"tags": [
+			"furnace",
+			"blast_furnace"
+		]
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"format_version": "1.21.30",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "qob:flint_from_gravel"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:gravel"
+			}
+		],
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:gravel",
+				"count": 1
+			}
+		],
+		"result": {
+			"item": "minecraft:flint",
+			"count": 1
+		}
+	}
+}

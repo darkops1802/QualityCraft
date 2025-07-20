@@ -1,0 +1,30 @@
+{
+	"format_version": "1.20.30",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "qob:logs_to_chests"
+		},
+		"unlock": [
+			{
+				"tag": "minecraft:logs"
+			}
+		],
+		"pattern": [
+			"AAA",
+			"A A",
+			"AAA"
+		],
+		"key": {
+			"A": {
+				"tag": "minecraft:logs"
+			}
+		},
+		"result": {
+			"item": "minecraft:chest",
+			"count": 4
+		},
+		"tags": [
+			"crafting_table"
+		]
+	}
+}

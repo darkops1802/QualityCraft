@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.30",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "qob:renewable_sand"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:sand"
+			},
+			{
+				"item": "minecraft:soul_sand"
+			}
+		],
+		"tags": [
+			"crafting_table",
+			"unlock"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:gravel"
+			},
+			{
+				"item": "minecraft:soul_sand"
+			}
+		],
+		"result": {
+			"item": "minecraft:sand",
+			"count": 2
+		}
+	}
+}

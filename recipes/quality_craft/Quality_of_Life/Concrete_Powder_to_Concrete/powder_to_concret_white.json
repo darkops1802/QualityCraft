@@ -1,0 +1,24 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "qob:white_concrete_simple"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:white_concrete_powder"
+			}
+		],
+		"result": {
+			"item": "minecraft:white_concrete"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:white_concrete_powder"
+			}
+		]
+	}
+}

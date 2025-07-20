@@ -1,0 +1,24 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "qob:cyan_concrete_simple"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:cyan_concrete_powder"
+			}
+		],
+		"result": {
+			"item": "minecraft:cyan_concrete"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:cyan_concrete_powder"
+			}
+		]
+	}
+}

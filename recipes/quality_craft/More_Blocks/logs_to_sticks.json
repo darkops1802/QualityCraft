@@ -1,0 +1,26 @@
+{
+	"format_version": "1.21.30",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "qob:logs_to_sticks"
+		},
+		"unlock": [
+			{
+				"tag": "minecraft:logs"
+			}
+		],
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"tag": "minecraft:logs",
+				"count": 2
+			}
+		],
+		"result": {
+			"item": "minecraft:stick",
+			"count": 16
+		}
+	}
+}

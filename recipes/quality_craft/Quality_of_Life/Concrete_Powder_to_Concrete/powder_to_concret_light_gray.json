@@ -1,0 +1,24 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "qob:light_gray_concrete_simple"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:light_gray_concrete_powder"
+			}
+		],
+		"result": {
+			"item": "minecraft:light_gray_concrete"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:light_gray_concrete_powder"
+			}
+		]
+	}
+}

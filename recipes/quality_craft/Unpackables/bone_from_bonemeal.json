@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.30",
+	"minecraft:recipe_shaped": {
+		"assume_symmetry": true,
+		"description": {
+			"identifier": "A_qob:bone_from_bonemeal"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:bone_meal"
+			}
+		},
+		"pattern": [
+			"AAA"
+		],
+		"unlock": [
+			{
+				"item": "minecraft:bone_meal"
+			},
+			{
+				"item": "minecraft:bone"
+			}
+		],
+		"result": {
+			"item": "minecraft:bone",
+			"count": 1
+		}
+	}
+}
