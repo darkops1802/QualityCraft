@@ -1,0 +1,32 @@
+{
+	"format_version": "1.20.30",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "qob:gilded_blackstone_recipe"
+		},
+		"unlock": [
+			{
+				"item": "minecraft:blackstone"
+			}
+		],
+		"pattern": [
+			"AB",
+			"BA"
+		],
+		"key": {
+			"A": {
+				"item": "blackstone"
+			},
+			"B": {
+				"item": "gold_nugget"
+			}
+		},
+		"result": {
+			"item": "minecraft:gilded_blackstone",
+			"count": 2
+		},
+		"tags": [
+			"crafting_table"
+		]
+	}
+}
