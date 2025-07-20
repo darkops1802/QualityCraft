@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Noirgashira"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.48"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			90
+		],
+		"uuid": "38ceae3e-9d6e-491b-9f41-03ace827a2f1",
+		"version": [
+			1,
+			0,
+			3
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "6767dccc-5ed6-43c3-a2d5-7e47c186239a",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
